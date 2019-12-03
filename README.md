@@ -1,9 +1,5 @@
-# Web-Backend-Roadmap-Try
-
-
-
-
-
+<h2 align="center">개발자 로드맵 따라가기</h2>
+<p align="center">2019년 웹 개발자가 되기 위한 로드맵</p>
 
 ## 필수사항
 - Git - 버전 관리
