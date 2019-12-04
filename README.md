@@ -4,6 +4,7 @@
 <br>
 
 <h2 align="center">필수사항</h2>
+
 - Git - 버전 관리 (Clear)
 - 기본적인 터미널 사용법 (Clear)
 - 자료구조 & 알고리즘 (https://github.com/Dev-Jang/BAEKJOON-Algorithm)
@@ -21,6 +22,7 @@
 <br>
 
 <h2 align="center">백엔드</h2>
+
 ## 1. 언어 선택
 - 스크립트 언어 : ***Python(In practice)***, ***Node.js(In practice)***, ***PHP(In practice)***  
 - 함수형 언어 : ***Clojure(Not yet)***  
