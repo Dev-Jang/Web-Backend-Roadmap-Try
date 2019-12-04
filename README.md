@@ -20,10 +20,7 @@
 
 <br>
 
-# 백엔드
-
-<br>
-
+# 백엔드  
 ## 1. 언어 선택
 - 스크립트 언어 : ***Python(In practice)***, ***Node.js(In practice)***, ***PHP(In practice)***  
 - 함수형 언어 : ***Clojure(Not yet)***  
