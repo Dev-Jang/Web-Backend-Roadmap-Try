@@ -22,9 +22,9 @@
 
 ## 백엔드  
 ### 1. 언어 선택
-스크립트 언어 : ***Python(In practice)***, ***Node.js(In practice)***, ***PHP(In practice)***  
-함수형 언어 : ***Clojure(Not yet)***  
-다른 옵션 : ***Golang(Not yet)***, ***Rust(Not yet)***  
+- 스크립트 언어 : ***Python(In practice)***, ***Node.js(In practice)***, ***PHP(In practice)***  
+- 함수형 언어 : ***Clojure(Not yet)***  
+- 다른 옵션 : ***Golang(Not yet)***, ***Rust(Not yet)***  
 
 <br>
 
