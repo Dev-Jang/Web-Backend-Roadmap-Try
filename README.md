@@ -20,9 +20,9 @@
   
 ## 백엔드  
 ### 1. 언어 선택
-스크립트 언어 : ***Python(In practice)***, ***Node.js(In practice)***, ***PHP(In practice)***
-함수형 언어 : ***Clojure(Not yet)***
-다른 옵션 : ***Golang(Not yet)***, ***Rust(Not yet)***
+스크립트 언어 : ***Python(In practice)***, ***Node.js(In practice)***, ***PHP(In practice)***  
+함수형 언어 : ***Clojure(Not yet)***  
+다른 옵션 : ***Golang(Not yet)***, ***Rust(Not yet)***  
 
 ### 2. 배운 것을 실습
 - 커맨드 라인(또는 콘솔) 어플리케이션 만들기
