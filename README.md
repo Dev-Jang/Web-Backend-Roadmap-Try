@@ -8,7 +8,8 @@
 - 기본적인 터미널 사용법
 - 자료구조 & 알고리즘
 - SOLID, KISS, YAGNI
-  - [SOLID](http://www.nextree.co.kr/p6960/)
+  - [객체지향 개발 5원칙: SOLID](http://www.nextree.co.kr/p6960/)
+  - [소프트웨어 개발의 3원칙: KISS, YAGNI, DRY](https://blog.naver.com/PostView.nhn?blogId=dilrong&logNo=221499759558)
 - GitHub
 - 라이센스
 - Semantic Versioning
