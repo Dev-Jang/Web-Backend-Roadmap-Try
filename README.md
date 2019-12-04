@@ -8,7 +8,7 @@
 - 기본적인 터미널 사용법
 - 자료구조 & 알고리즘
 - SOLID, KISS, YAGNI
-  - (SOLID)[http://www.nextree.co.kr/p6960/]
+  - [SOLID](http://www.nextree.co.kr/p6960/)
 - GitHub
 - 라이센스
 - Semantic Versioning
