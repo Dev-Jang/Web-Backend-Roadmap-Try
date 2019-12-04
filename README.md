@@ -12,8 +12,8 @@
   - [소프트웨어 개발의 3원칙: KISS, YAGNI, DRY](https://blog.naver.com/PostView.nhn?blogId=dilrong&logNo=221499759558)
 - GitHub (https://github.com/Dev-Jang)
 - 라이센스 ([OLIS](https://www.olis.or.kr/images/egovframework/olisImage/common/OpensourceSW_License_Guide.pdf))
-- Semantic Versioning
-- SSH
+- Semantic Versioning (https://spoqa.github.io/2012/12/18/semantic-versioning.html)
+- SSH ([위키백과](https://ko.wikipedia.org/wiki/%EC%8B%9C%ED%81%90%EC%96%B4_%EC%85%B8))
 - HTTP/HTTPS와 APIs
 - 디자인 패턴
 - 문자 인코딩
