@@ -10,8 +10,8 @@
 - SOLID, KISS, YAGNI
   - [객체지향 개발 5원칙: SOLID](http://www.nextree.co.kr/p6960/)
   - [소프트웨어 개발의 3원칙: KISS, YAGNI, DRY](https://blog.naver.com/PostView.nhn?blogId=dilrong&logNo=221499759558)
-- GitHub
-- 라이센스
+- GitHub (https://github.com/Dev-Jang)
+- 라이센스 ([OLIS](https://www.olis.or.kr/images/egovframework/olisImage/common/OpensourceSW_License_Guide.pdf))
 - Semantic Versioning
 - SSH
 - HTTP/HTTPS와 APIs
