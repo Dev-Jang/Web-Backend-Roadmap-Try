@@ -4,8 +4,8 @@
 <br>
 
 ## 필수사항
-- Git - 버전 관리 (Clear)
-- 기본적인 터미널 사용법 (Clear)
+- Git - 버전 관리
+- 기본적인 터미널 사용법
 - 자료구조 & 알고리즘 (https://github.com/Dev-Jang/BAEKJOON-Algorithm)
 - SOLID, KISS, YAGNI
   - [객체지향 개발 5원칙: SOLID](http://www.nextree.co.kr/p6960/)
